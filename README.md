@@ -3,7 +3,7 @@
 [![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeonJungyu-1&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=JeonJungyu-1&count_private=false&custom_title=JeonJungyu's%20github&bg_color=90,#111111,#333333&title_color=#333333&text_color=#444444)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=JeonJungyu-1&count_private=false&custom_title=JeonJungyu's%20github&bg_color=90,#FADE2B,#02FA82&title_color=#333333&text_color=#444444)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
