@@ -5,7 +5,7 @@
 [![github stats](https://github-readme-stats.vercel.app/api?username=JeonJungyu-1&count_private=false&custom_title=JeonJungyu's%20github&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonJungyu-1&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonJungyu-1&theme=onedark&layout=compact&hide=html))](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
