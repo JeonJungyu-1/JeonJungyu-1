@@ -22,7 +22,7 @@
 
     
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeonJungyu-1&theme=onedark&layout=compact&exclude_repo=baseballGameWeb,study_html-css-javascript,springProject" />
+  <img align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeonJungyu-1&theme=onedark&layout=compact&exclude_repo=baseballGameWeb,study_html-css-javascript,springProject" />
   
   <div align="center">
   
