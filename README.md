@@ -1,20 +1,17 @@
 
+    
 <img width="450" align="right" src="https://github-readme-stats.vercel.app/api?username=JeonJungyu-1&count_private=false&custom_title=JeonJungyu's%20github&theme=onedark" />
 
+    
 <div align="center" >
     
-### 안녕하세요. :computer:
   
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeonJungyu-1&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
-  
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeonJungyu-1&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
+
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=rhkwk132"/>    
-  
-##
-  
-<br>
-  
-##
-<br>
+    
+    
+<img width="330" src="http://mazandi.herokuapp.com/api?handle=rhkwk132&theme=warm"/> 
   
 </div>
 
