@@ -1,6 +1,5 @@
 
-    
-<img width="450" align="right" src="https://github-readme-stats.vercel.app/api?username=JeonJungyu-1&count_private=false&custom_title=JeonJungyu's%20github&theme=onedark" />
+   
 
     
 <div align="center" >
@@ -15,11 +14,12 @@
   
 </div>
 
+ 
+<img width="450" align="right" src="https://github-readme-stats.vercel.app/api?username=JeonJungyu-1&count_private=false&custom_title=JeonJungyu's%20github&theme=onedark" />
+
 <hr>
 
-    
-  
-  <img align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeonJungyu-1&theme=onedark&layout=compact&exclude_repo=baseballGameWeb,study_html-css-javascript,springProject" />
+
   
   <div align="center">
   
@@ -39,6 +39,10 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 
  </div>
+ 
+     
+  
+  <img align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeonJungyu-1&theme=onedark&layout=compact&exclude_repo=baseballGameWeb,study_html-css-javascript,springProject" />
  
 
 
