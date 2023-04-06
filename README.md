@@ -1,6 +1,6 @@
 
    
-<img width="450" align="right" src="https://github-readme-stats.vercel.app/api?username=JeonJungyu-1&count_private=false&custom_title=JeonJungyu's%20github&theme=onedark" />
+<img width="450" align="right" src="https://github-readme-stats.vercel.app/api?username=JeonJungyu-1&custom_title=JeonJungyu's%20github&theme=onedark" />
     
 <div align="center" >
     
@@ -23,7 +23,7 @@
 
 
   
-  <img align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeonJungyu-1&theme=onedark&layout=compact&exclude_repo=baseballGameWeb,study_html-css-javascript,springProject" />
+  <img align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeonJungyu-1&theme=onedark&layout=compact&exclude_repo=baseballGameWeb,springProject" />
  
 
 
